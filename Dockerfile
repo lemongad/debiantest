@@ -1,1 +1,1 @@
-FROM lemoc/debian/latest
+FROM lemoc/debian:latest
